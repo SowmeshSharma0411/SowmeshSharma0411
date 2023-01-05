@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmeshsharma0411&label=Profile%20views&color=0e75b6&style=flat" alt="sowmeshsharma0411" /> </p>
 
-- 🔭 I’m currently working on **Interra**
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter, Firebase, DSA in cpp.**
