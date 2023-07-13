@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sowmesh Sharma H M</h1>
-<h3 align="center">I am a Comp Sc enthusiast and a passionate developer who loves exploring the newest tech and trends around the world; App dev in Flutter, blockchain , AI/ML</h3>
+<h3 align="center">I am a Comp Sc enthusiast and a passionate developer who loves exploring the newest tech and trends around the world; App dev in Flutter, AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmeshsharma0411&label=Profile%20views&color=0e75b6&style=flat" alt="sowmeshsharma0411" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Flutter, Firebase, DSA in cpp.**
 
