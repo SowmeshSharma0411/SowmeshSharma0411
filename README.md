@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmeshsharma0411&label=Profile%20views&color=0e75b6&style=flat" alt="sowmeshsharma0411" /> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Distributed Computing, Big Data and Cloud Technologies**
 
 - 💬 Ask me about **Flutter, Firebase, DSA in cpp.**
 
